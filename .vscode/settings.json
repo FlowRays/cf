@@ -5,6 +5,28 @@
         "vector": "cpp",
         "xiosbase": "cpp",
         "utility": "cpp",
-        "cstdlib": "cpp"
-    }
+        "cstdlib": "cpp",
+        "deque": "cpp",
+        "unordered_set": "cpp",
+        "xutility": "cpp",
+        "array": "cpp",
+        "filesystem": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xlocale": "cpp",
+        "bitset": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "stack": "cpp",
+        "type_traits": "cpp",
+        "tuple": "cpp"
+    },
+    "restructuredtext.syntaxHighlighting.disabled": true,
+    "restructuredtext.languageServer.disabled": true
 }
